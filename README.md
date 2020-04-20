@@ -1,5 +1,5 @@
 
-![tictactoe](./assets/ac_title.png)
+![tictactoe](./assets/ac_title2.png)
 
 
 ## Definición del producto 
